@@ -15,5 +15,6 @@
     "prettier:check": "prettier --ignore-unknown --no-error-on-unmatched-pattern --ignore-path .prettierignore --check .",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
-  }
+  },
+  "packageManager": "yarn@3.6.1"
 }

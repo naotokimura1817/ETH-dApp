@@ -8,3 +8,7 @@
 **/node_modules
 # misc
 **/.DS_Store
+# hardhat
+packages/contract/cache
+packages/contract/artifacts
+packages/contract/hardhat.config.js
